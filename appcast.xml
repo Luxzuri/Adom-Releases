@@ -12,9 +12,9 @@
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
       <pubDate>Sun, 23 Mar 2026 12:00:00 +0000</pubDate>
       <enclosure
-        url="https://github.com/Luxzuri/Adom-Releases/releases/download/v0.8/Adom.zip"
-        sparkle:edSignature="IIfZbU72OUt4bGO62vd3jmQCzT6N5BlpUH3mHpK2JEI0Szx2CtPMTAndEQTjpu2slqUH9SflgPn/laWxu1d7Bw=="
-        length="4470061"
+        url="https://github.com/Luxzuri/Adom-Releases/releases/download/v0.8/Adom.dmg"
+        sparkle:edSignature="g+f6SOSfQ3InOuL8cKE4CxfTThn+Smgj7LvE2b0m3Kd3ic6mnUz5nfhEUh2Gn4e+RfDx4yv0dPDW+WnxRV8tAg=="
+        length="4404483"
         type="application/octet-stream"
       />
     </item>
