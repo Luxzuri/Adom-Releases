@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Adom</title>
+    <link>https://luxzuri.github.io/Adom-Releases/appcast.xml</link>
+    <description>Adom update feed</description>
+    <language>he</language>
+    <item>
+      <title>Version 0.8</title>
+      <sparkle:version>1</sparkle:version>
+      <sparkle:shortVersionString>0.8</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <pubDate>Sun, 23 Mar 2026 12:00:00 +0000</pubDate>
+      <enclosure
+        url="https://github.com/Luxzuri/Adom-Releases/releases/download/v0.8/Adom.zip"
+        sparkle:edSignature="IIfZbU72OUt4bGO62vd3jmQCzT6N5BlpUH3mHpK2JEI0Szx2CtPMTAndEQTjpu2slqUH9SflgPn/laWxu1d7Bw=="
+        length="4470061"
+        type="application/octet-stream"
+      />
+    </item>
+  </channel>
+</rss>
