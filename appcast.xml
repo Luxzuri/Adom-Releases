@@ -6,6 +6,19 @@
     <description>Adom update feed</description>
     <language>he</language>
     <item>
+      <title>Version 0.99.4</title>
+      <sparkle:version>8</sparkle:version>
+      <sparkle:shortVersionString>0.99.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <pubDate>Tue, 31 Mar 2026 18:24:00 +0000</pubDate>
+      <enclosure
+        url="https://github.com/Luxzuri/Adom-Releases/releases/download/v0.99.4/Adom.dmg"
+        sparkle:edSignature="wiyqLJYY+Q+c/9IdXxhNo9X47jgXeC4g0sScP408XUv/h7avjDr2/gt/ynGTojk6yd2ZCwJ8HWX1ChWmQ/NXBw=="
+        length="4510401"
+        type="application/octet-stream"
+      />
+    </item>
+    <item>
       <title>Version 0.99.3</title>
       <sparkle:version>7</sparkle:version>
       <sparkle:shortVersionString>0.99.3</sparkle:shortVersionString>
